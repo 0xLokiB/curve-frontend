@@ -1,7 +1,9 @@
 # curve-frontend
 
 Curve-frontend is a user-interface application designed to connect to Curve's deployment of smart contracts.
-This UI application is designed for both the [Curve](https://curve.finance) dapp, and utilizes [curve-js](https://github.com/curvefi/curve-js) and [curve-llamalend-api](https://github.com/curvefi/curve-llamalend.js) to communicate with the blockchain.
+This UI application is designed for both the [Curve](https://curve.finance) application, and utilizes [curve-js](https://github.com/curvefi/curve-js) and [curve-llamalend-api](https://github.com/curvefi/curve-llamalend.js) to communicate with the blockchain.
+
+We also deploy the [Curve for Stellar](https://stellar.curve.finance) and [storybook](https://design.curve.finance) applications from this repository.
 
 [![CI](https://github.com/curvefi/curve-frontend/actions/workflows/ci.yaml/badge.svg?event=push)](https://github.com/curvefi/curve-frontend/actions/workflows/ci.yaml)
 [![Storybook](https://github.com/curvefi/curve-frontend/actions/workflows/storybook.yaml/badge.svg?event=push)](https://curve-dapp-storybook-curvefi.vercel.app/)
